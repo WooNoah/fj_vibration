@@ -1,0 +1,22 @@
+PODS:
+  - fj_vibration (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - fj_vibration (from `.symlinks/plugins/fj_vibration/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  fj_vibration:
+    :path: ".symlinks/plugins/fj_vibration/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  fj_vibration: 63af188352a0001251955adc647175391efddf11
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.0
